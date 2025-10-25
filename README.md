@@ -55,6 +55,5 @@ and more.
 
 ## Image gallery
 <img width="1280" height="768" alt="pixai-1938918722997544742-3" src="https://github.com/user-attachments/assets/aa55e22a-7456-4a1b-a800-f166bec7598e" />
-<img width="1280" height="768" alt="pixai-1938918722997544742-2" src="https://github.com/user-attachments/assets/01316286-c987-47cd-8dba-73a92967e248" />
 <img width="1280" height="768" alt="pixai-1938918722997544742-0" src="https://github.com/user-attachments/assets/ee1ba1b6-ac6c-4515-92c4-42e77284f1ca" />
 
